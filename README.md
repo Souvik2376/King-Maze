@@ -23,6 +23,10 @@ Game On 🎮 :)
 
 https://641d8f0d50332b10e2693958--fluffy-fox-c5c1ee.netlify.app/
 
+OR
+
+https://souvik2376.github.io/King-Maze/
+
 # Game Levels
 ## Level 1
 ![backgroundLevel1](https://user-images.githubusercontent.com/100219950/227505502-ab150fb6-c3e8-4288-a9cd-3266655a1116.png)
