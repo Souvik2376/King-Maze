@@ -21,6 +21,8 @@ When the king reach to the door 🚪 press "W" and moves towards the next level 
 
 Game On 🎮 :) 
 
+https://souvik2376.github.io/King-Maze/
+
 # Game Levels
 ## Level 1
 ![backgroundLevel1](https://user-images.githubusercontent.com/100219950/227505502-ab150fb6-c3e8-4288-a9cd-3266655a1116.png)
