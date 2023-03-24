@@ -1,7 +1,7 @@
 # King-Maze
 A maze hunter game . 
 
-Help the king find the way .
+Help the king 👑 find the way .
 
 ![King](https://user-images.githubusercontent.com/100219950/227506872-0c0893be-26d7-46a5-be75-74c885e36cd8.PNG)
 
@@ -11,15 +11,15 @@ Reach to the gate to find the wa towards next level , but be carefull there are 
 
 
 # Game Instruction 
-W --> Jump
+W 🕹️ Jump 
 
-A --> Right
+A 🕹️ Right
 
-B --> Left 
+D 🕹️ Left 
 
-When the king reach to the door press "W" and moves towards the next level .
+When the king reach to the door 🚪 press "W" and moves towards the next level 🔑 .
 
-Game On :) 
+Game On 🎮 :) 
 
 # Game Levels
 ## Level 1
