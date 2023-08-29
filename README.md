@@ -21,7 +21,7 @@ When the king reach to the door 🚪 press "W" and moves towards the next level 
 
 Game On 🎮 :) 
 
-https://641d8f0d50332b10e2693958--fluffy-fox-c5c1ee.netlify.app/
+[https://641d8f0d50332b10e2693958--fluffy-fox-c5c1ee.netlify.app/](https://fluffy-fox-c5c1ee.netlify.app/)
 
 OR
 
